@@ -1,0 +1,13 @@
+# Generated NetBeans files
+/build/
+/dist/
+/nbproject/private/
+
+# Packaged Windows application
+/runtime/
+/app/
+Call Of Jelly WINDOWS.exe
+
+# OS junk
+.DS_Store
+Thumbs.db
