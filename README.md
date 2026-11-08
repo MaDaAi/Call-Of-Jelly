@@ -119,4 +119,4 @@ Third-party assets belong to their respective creators and are used with permiss
 ## ❤️ CallOfJelly
 
 Created by **Mansoor Alakoozai, Zunair Muhammad, and Vedant Patel**.
-githubs: MaDaAi
+githubs: MaDaAi, VedantP1502
